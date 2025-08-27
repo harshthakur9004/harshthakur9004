@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshthakur9004
+- 👋 Hi, I’m harsh Kumar
 - 👀 I’m interested in frontend developer
 - 🌱 I’m currently learning (java,js, HTML,CSS)
 - 💞️ I’m looking to collaborate on ...
